@@ -6,3 +6,6 @@ scipy
 kagglehub
 sentence-transformers
 chromadb
+requests
+beautifulsoup4
+google-generativeai
